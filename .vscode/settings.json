@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "log.h": "c",
+        "semaphore.h": "c"
+    }
+}
